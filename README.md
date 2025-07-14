@@ -1,4 +1,4 @@
-Projects + compositions I made for the Music 158 series. All original work built by me.
+Projects + compositions I made while taking the Music 158 series. All original work built by me.
 `.maxpatch` and `.arduino` files are pushed into this repo, but it is better to watch the videos of my patches down below because the setup for both software is tedious.
 
 The Music 158 series is my favorite set of classes I've taken at UC Berkeley. :)
