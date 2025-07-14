@@ -22,3 +22,4 @@ Instruments:
 
 ## Instruments
 - Singing Headband (video/pictures in progress; code provided.) --> real-time moving accelerometer data to audio of different pitch and timbre.
+- Microphone (pictures in progress. Purely hardware)
